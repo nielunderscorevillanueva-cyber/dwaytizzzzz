@@ -1,0 +1,25 @@
+body{ 
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-family: poppins, sans-serif;
+}
+
+.container{
+    width: 90;
+    margin: auto;
+}
+
+img {
+    margin: 15px;
+    border-radius: 10px;
+}
+
+h1{
+    color: yellow;
+}
+
+h2{
+    color: cyan;
+}
+
